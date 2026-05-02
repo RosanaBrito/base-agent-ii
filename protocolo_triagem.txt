@@ -1,0 +1,14 @@
+
+PROTOCOLO DE TRIAGEM HOSPITALAR - CLASSIFICAÇÃO DE RISCO:
+
+1. VERMELHO (Emergência Absoluta):
+- Sintomas: Dor no peito intensa irradiando para o braço, falta de ar severa, perda de consciência, sangramento abundante, convulsão ativa.
+- Ação Exigida: Acionar emergência local imediatamente. NUNCA agendar consulta.
+
+2. AMARELO (Urgência):
+- Sintomas: Febre alta (>39°C) persistente, dor abdominal intensa, vômitos que não cessam, tontura forte.
+- Ação Exigida: Direcionar para o pronto-socorro mais próximo.
+
+3. VERDE / AZUL (Pouco Urgente / Não Urgente):
+- Sintomas: Dor de cabeça leve, coriza, tosse leve, dor muscular, febre baixa (<38°C).
+- Ação Exigida: Agendar consulta médica regular para os próximos dias.
